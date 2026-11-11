@@ -68,8 +68,7 @@ which is:
 * [Karlon West](https://github.com/karlonw)
 
 
-Expectations for TSC Members
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Expectations for TSC Members
 
 TSC members are expected to help guide the Chapel project’s direction by:
 * participating in TSC activities such as meetings, discussions, and votes
@@ -79,8 +78,7 @@ TSC members are expected to help guide the Chapel project’s direction by:
 * maintaining GitHub and LFX [openprofile.dev](https://openprofile.dev/) account for the sake of project voting and coordination
 
 
-Applying to the TSC
-~~~~~~~~~~~~~~~~~~~
+### Applying to the TSC
 
 Interested parties can apply to join the Chapel TSC by opening a new
 GitHub issue on the TSC repository using the [TSC
@@ -99,8 +97,7 @@ template.  After filing the issue, the TSC will:
 4. Vote on whether to add the applicant to the TSC or not via simple majority
 
 
-For additional information
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+### For additional information
 
 See [TechCharter.pdf](TechCharter.pdf) for additional information
 about TSC membership, roles, and responsibilities.

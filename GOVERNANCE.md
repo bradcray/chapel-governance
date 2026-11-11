@@ -67,6 +67,13 @@ which is:
 * [Andy Stone](https://github.com/stonea)
 * [Karlon West](https://github.com/karlonw)
 
+TSC members are expected to help guide the Chapel project’s direction by:
+* participating in TSC activities such as meetings, discussions, and votes
+* serving as ambassadors of the Chapel project, looking for ways to improve it and grow its community over time
+* being guided by what they consider to be best for the Chapel language, its users, the Chapel project, the historical investment in it, and its success going forward
+* upholding Chapel’s [code of conduct](https://github.com/chapel-lang/chapel?tab=coc-ov-file) and being familiar with its [technical charter](TechCharter.pdf)
+* maintaining GitHub and LFX [openprofile.dev](https://openprofile.dev/) account for the sake of project voting and coordination
+
 See [TechCharter.pdf](TechCharter.pdf) for additional information
 about TSC membership, roles, and responsibilities.
 
